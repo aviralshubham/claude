@@ -1,0 +1,204 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a pricing card component
+            - img [ref=e61]
+          - generic [ref=e82]:
+            - img [ref=e85]
+            - generic [ref=e90]:
+              - generic [ref=e93]: Created App.jsx
+              - separator [ref=e94]
+              - generic [ref=e97]: Created PricingCard.jsx
+              - separator [ref=e98]
+              - generic [ref=e99]:
+                - paragraph [ref=e100]:
+                  - text: Done! Created a reusable
+                  - code [ref=e1374]: PricingCard
+                  - text: "component with:"
+                - list [ref=e102]:
+                  - listitem [ref=e103]: Customizable name, price, and description
+                  - listitem [ref=e104]: Feature list with checkmarks
+                  - listitem [ref=e105]: Button variants (primary/outline)
+                  - listitem [ref=e106]: Highlight option for featured plans
+                  - listitem [ref=e107]: Hover effects and responsive design
+                  - listitem [ref=e108]: Example usage in App.jsx with 3 pricing tiers
+          - generic [ref=e1242]:
+            - generic [ref=e1245]: Create a pricing card component
+            - img [ref=e1248]
+          - generic [ref=e1271]:
+            - img [ref=e1274]
+            - generic [ref=e1279]:
+              - generic [ref=e1282]: Created App.jsx
+              - separator [ref=e1283]
+              - generic [ref=e1286]: Edited App.jsx
+              - separator [ref=e1287]
+              - generic [ref=e1290]: Edited PricingCard.jsx
+              - separator [ref=e1291]
+              - generic [ref=e1292]:
+                - paragraph [ref=e1293]: "Done! Redesigned with:"
+                - list [ref=e1294]:
+                  - listitem [ref=e1295]: Dark gradient background (slate/purple)
+                  - listitem [ref=e1296]: Glowing hover effects with customizable accent colors
+                  - listitem [ref=e1297]: Featured card scaling and glow
+                  - listitem [ref=e1298]: Gradient text for prices and icons
+                  - listitem [ref=e1299]: Bold typography hierarchy
+                  - listitem [ref=e1300]: Smooth transitions and interactive states
+                  - listitem [ref=e1301]: Modern, premium aesthetic
+          - generic [ref=e1305]:
+            - generic [ref=e1308]: Create a user profile card component
+            - img [ref=e1311]
+          - generic [ref=e1346]:
+            - img [ref=e1349]
+            - generic [ref=e1354]:
+              - generic [ref=e1357]: Edited App.jsx
+              - separator [ref=e1358]
+              - generic [ref=e1361]: Created UserProfileCard.jsx
+              - separator [ref=e1362]
+              - generic [ref=e1363]:
+                - paragraph [ref=e1364]: "Done! Created a user profile card with:"
+                - list [ref=e1365]:
+                  - listitem [ref=e1366]: Gradient header background
+                  - listitem [ref=e1367]: Circular avatar with shadow
+                  - listitem [ref=e1368]: Name, role, and bio
+                  - listitem [ref=e1369]: Stats display (projects, followers, etc.)
+                  - listitem [ref=e1370]: Social media links with icons
+                  - listitem [ref=e1371]: Customizable accent colors
+                  - listitem [ref=e1372]: Hover glow effects and smooth transitions
+                  - listitem [ref=e1373]: Clean, modern design with warm color palette
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [ref=e32]
+          - tab "Code" [active] [selected] [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - generic [ref=e1375]:
+        - generic [ref=e1381]:
+          - generic [ref=e1382]:
+            - generic [ref=e1383] [cursor=pointer]:
+              - img [ref=e1384]
+              - img [ref=e1386]
+              - generic [ref=e1388]: components
+            - generic [ref=e1389]:
+              - generic [ref=e1391] [cursor=pointer]:
+                - img [ref=e1392]
+                - generic [ref=e1397]: PricingCard.jsx
+              - generic [ref=e1399] [cursor=pointer]:
+                - img [ref=e1400]
+                - generic [ref=e1405]: UserProfileCard.jsx
+          - generic [ref=e1407] [cursor=pointer]:
+            - img [ref=e1408]
+            - generic [ref=e1413]: App.jsx
+        - separator [ref=e1414]
+        - code [ref=e1419]:
+          - generic [ref=e1420]:
+            - generic [ref=e1422]:
+              - generic [ref=e1425]: "1"
+              - generic [ref=e1427]: "2"
+              - generic [ref=e1428]:
+                - generic [ref=e1429] [cursor=pointer]: 
+                - generic [ref=e1430]: "3"
+              - generic [ref=e1431]:
+                - generic [ref=e1432] [cursor=pointer]: 
+                - generic [ref=e1433]: "4"
+              - generic [ref=e1434]:
+                - generic [ref=e1435] [cursor=pointer]: 
+                - generic [ref=e1436]: "5"
+              - generic [ref=e1438]:
+                - generic [ref=e1439] [cursor=pointer]: 
+                - generic [ref=e1440]: "6"
+              - generic [ref=e1441]:
+                - generic [ref=e1442] [cursor=pointer]: 
+                - generic [ref=e1443]: "7"
+              - generic [ref=e1444]:
+                - generic [ref=e1445] [cursor=pointer]: 
+                - generic [ref=e1446]: "8"
+              - generic [ref=e1448]: "9"
+              - generic [ref=e1450]: "10"
+              - generic [ref=e1451]:
+                - generic [ref=e1452] [cursor=pointer]: 
+                - generic [ref=e1453]: "11"
+              - generic [ref=e1455]: "12"
+              - generic [ref=e1457]: "13"
+              - generic [ref=e1459]: "14"
+              - generic [ref=e1461]: "15"
+              - generic [ref=e1462]:
+                - generic [ref=e1463] [cursor=pointer]: 
+                - generic [ref=e1464]: "16"
+              - generic [ref=e1465]:
+                - generic [ref=e1466] [cursor=pointer]: 
+                - generic [ref=e1467]: "17"
+              - generic [ref=e1469]: "18"
+              - generic [ref=e1471]: "19"
+              - generic [ref=e1473]: "20"
+              - generic [ref=e1475]: "21"
+              - generic [ref=e1477]:
+                - generic [ref=e1478] [cursor=pointer]: 
+                - generic [ref=e1479]: "22"
+              - generic [ref=e1481]: "23"
+              - generic [ref=e1483]: "24"
+              - generic [ref=e1485]: "25"
+              - generic [ref=e1486]:
+                - generic [ref=e1487] [cursor=pointer]: 
+                - generic [ref=e1488]: "26"
+              - generic [ref=e1490]: "27"
+              - generic [ref=e1492]: "28"
+              - generic [ref=e1494]: "29"
+              - generic [ref=e1496]: "30"
+              - generic [ref=e1498]: "31"
+              - generic [ref=e1500]: "32"
+              - generic [ref=e1502]: "33"
+              - generic [ref=e1503]:
+                - generic [ref=e1504] [cursor=pointer]: 
+                - generic [ref=e1505]: "34"
+              - generic [ref=e1507]: "35"
+            - generic [ref=e1724]:
+              - generic [ref=e1726]: import UserProfileCard from '@/components/UserProfileCard';
+              - generic [ref=e1729]: "export default function App() {"
+              - generic [ref=e1731]: return (
+              - generic [ref=e1733]: <div className="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50
+              - generic [ref=e1735]: to-rose-50 py-20 px-4">
+              - generic [ref=e1737]: <div className="max-w-6xl mx-auto">
+              - generic [ref=e1739]: <div className="text-center mb-16">
+              - generic [ref=e1741]: <h1 className="text-6xl font-black text-amber-950 mb-4 tracking-tight">
+              - generic [ref=e1743]: User Profiles
+              - generic [ref=e1745]: </h1>
+              - generic [ref=e1747]: <p className="text-xl text-amber-700 font-light">
+              - generic [ref=e1749]: Meet our amazing team members
+              - generic [ref=e1751]: </p>
+              - generic [ref=e1753]: </div>
+              - generic [ref=e1757]: <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              - generic [ref=e1759]: <UserProfileCard
+              - generic [ref=e1761]: name="Sarah Chen"
+              - generic [ref=e1763]: role="Product Designer"
+              - generic [ref=e1765]: bio="Crafting beautiful experiences with attention to detail"
+              - generic [ref=e1767]: avatar="https://images.unsplash.com/photo-1494790108377-be9c29b29330?
+              - generic [ref=e1769]: w=400&h=400&fit=crop"
+              - generic [ref=e1771]: "stats={["
+              - generic [ref=e1773]: "{ label: \"Projects\", value: \"24\" },"
+              - generic [ref=e1775]: "{ label: \"Followers\", value: \"1.2K\" }"
+              - generic [ref=e1777]: "]}"
+              - generic [ref=e1779]: "socials={["
+              - generic [ref=e1781]: "{ icon: \"twitter\", url: \"#\" },"
+              - generic [ref=e1783]: "{ icon: \"linkedin\", url: \"#\" },"
+              - generic [ref=e1785]: "{ icon: \"dribbble\", url: \"#\" }"
+              - generic [ref=e1787]: "]}"
+              - generic [ref=e1789]: accentColor="from-pink-400 to-rose-500"
+              - generic [ref=e1791]: />
+              - generic [ref=e1795]: <UserProfileCard
+              - generic [ref=e1797]: name="Marcus Johnson"
+            - textbox "Editor content" [ref=e1799]
+  - alert [ref=e48]
+  - generic [ref=e493]:
+    - alert
+    - alert

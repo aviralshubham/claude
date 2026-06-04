@@ -1,0 +1,160 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a pricing card component
+            - img [ref=e61]
+          - generic [ref=e82]:
+            - img [ref=e85]
+            - generic [ref=e90]:
+              - generic [ref=e93]: Created App.jsx
+              - separator [ref=e94]
+              - generic [ref=e97]: Created PricingCard.jsx
+              - separator [ref=e98]
+              - generic [ref=e99]:
+                - paragraph [ref=e100]:
+                  - text: Done! Created a reusable
+                  - code [ref=e1866]: PricingCard
+                  - text: "component with:"
+                - list [ref=e102]:
+                  - listitem [ref=e103]: Customizable name, price, and description
+                  - listitem [ref=e104]: Feature list with checkmarks
+                  - listitem [ref=e105]: Button variants (primary/outline)
+                  - listitem [ref=e106]: Highlight option for featured plans
+                  - listitem [ref=e107]: Hover effects and responsive design
+                  - listitem [ref=e108]: Example usage in App.jsx with 3 pricing tiers
+          - generic [ref=e1242]:
+            - generic [ref=e1245]: Create a pricing card component
+            - img [ref=e1248]
+          - generic [ref=e1271]:
+            - img [ref=e1274]
+            - generic [ref=e1279]:
+              - generic [ref=e1282]: Created App.jsx
+              - separator [ref=e1283]
+              - generic [ref=e1286]: Edited App.jsx
+              - separator [ref=e1287]
+              - generic [ref=e1290]: Edited PricingCard.jsx
+              - separator [ref=e1291]
+              - generic [ref=e1292]:
+                - paragraph [ref=e1293]: "Done! Redesigned with:"
+                - list [ref=e1294]:
+                  - listitem [ref=e1295]: Dark gradient background (slate/purple)
+                  - listitem [ref=e1296]: Glowing hover effects with customizable accent colors
+                  - listitem [ref=e1297]: Featured card scaling and glow
+                  - listitem [ref=e1298]: Gradient text for prices and icons
+                  - listitem [ref=e1299]: Bold typography hierarchy
+                  - listitem [ref=e1300]: Smooth transitions and interactive states
+                  - listitem [ref=e1301]: Modern, premium aesthetic
+          - generic [ref=e1305]:
+            - generic [ref=e1308]: Create a user profile card component
+            - img [ref=e1311]
+          - generic [ref=e1346]:
+            - img [ref=e1349]
+            - generic [ref=e1354]:
+              - generic [ref=e1357]: Edited App.jsx
+              - separator [ref=e1358]
+              - generic [ref=e1361]: Created UserProfileCard.jsx
+              - separator [ref=e1362]
+              - generic [ref=e1363]:
+                - paragraph [ref=e1364]: "Done! Created a user profile card with:"
+                - list [ref=e1365]:
+                  - listitem [ref=e1366]: Gradient header background
+                  - listitem [ref=e1367]: Circular avatar with shadow
+                  - listitem [ref=e1368]: Name, role, and bio
+                  - listitem [ref=e1369]: Stats display (projects, followers, etc.)
+                  - listitem [ref=e1370]: Social media links with icons
+                  - listitem [ref=e1371]: Customizable accent colors
+                  - listitem [ref=e1372]: Hover glow effects and smooth transitions
+                  - listitem [ref=e1373]: Clean, modern design with warm color palette
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [active] [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e1868]:
+        - generic [ref=f4e4]:
+          - generic [ref=f4e5]:
+            - heading "User Profiles" [level=1] [ref=f4e6]
+            - paragraph [ref=f4e7]: Meet our amazing team members
+          - generic [ref=f4e8]:
+            - generic [ref=f4e13]:
+              - img "Sarah Chen" [ref=f4e15]
+              - heading "Sarah Chen" [level=3] [ref=f4e16]
+              - paragraph [ref=f4e17]: Product Designer
+              - paragraph [ref=f4e18]: Crafting beautiful experiences with attention to detail
+              - generic [ref=f4e19]:
+                - generic [ref=f4e20]:
+                  - paragraph [ref=f4e21]: "24"
+                  - paragraph [ref=f4e22]: Projects
+                - generic [ref=f4e23]:
+                  - paragraph [ref=f4e24]: 1.2K
+                  - paragraph [ref=f4e25]: Followers
+              - generic [ref=f4e26]:
+                - link [ref=f4e27] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e28]
+                - link [ref=f4e30] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e31]
+                - link [ref=f4e34] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e35]
+            - generic [ref=f4e42]:
+              - img "Marcus Johnson" [ref=f4e44]
+              - heading "Marcus Johnson" [level=3] [ref=f4e45]
+              - paragraph [ref=f4e46]: Full Stack Engineer
+              - paragraph [ref=f4e47]: Building scalable systems and mentoring junior developers
+              - generic [ref=f4e48]:
+                - generic [ref=f4e49]:
+                  - paragraph [ref=f4e50]: "38"
+                  - paragraph [ref=f4e51]: Projects
+                - generic [ref=f4e52]:
+                  - paragraph [ref=f4e53]: 2.8K
+                  - paragraph [ref=f4e54]: Followers
+              - generic [ref=f4e55]:
+                - link [ref=f4e56] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e57]
+                - link [ref=f4e59] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e60]
+                - link [ref=f4e63] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e64]
+            - generic [ref=f4e70]:
+              - img "Elena Rodriguez" [ref=f4e72]
+              - heading "Elena Rodriguez" [level=3] [ref=f4e73]
+              - paragraph [ref=f4e74]: Data Scientist
+              - paragraph [ref=f4e75]: Turning data into actionable insights and predictions
+              - generic [ref=f4e76]:
+                - generic [ref=f4e77]:
+                  - paragraph [ref=f4e78]: "19"
+                  - paragraph [ref=f4e79]: Projects
+                - generic [ref=f4e80]:
+                  - paragraph [ref=f4e81]: "956"
+                  - paragraph [ref=f4e82]: Followers
+              - generic [ref=f4e83]:
+                - link [ref=f4e84] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e85]
+                - link [ref=f4e88] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e89]
+                - link [ref=f4e91] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=f4e92]
+  - alert [ref=e48]
+  - generic [ref=e493]:
+    - alert
+    - alert

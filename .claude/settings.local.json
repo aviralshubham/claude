@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(node *)",
+      "Bash(npx playwright@latest screenshot --browser chromium \"http://localhost:3000\" verify-center.png)",
+      "Bash(npx playwright *)",
+      "Bash(npx vitest *)",
+      "mcp__playwright",
+      "mcp__playright__browser_navigate",
+      "mcp__playright__browser_take_screenshot",
+      "mcp__playright__browser_snapshot",
+      "mcp__playright__browser_click",
+      "mcp__playright__browser_type",
+      "mcp__playright__browser_wait_for"
+    ]
+  }
+}
